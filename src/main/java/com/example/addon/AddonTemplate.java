@@ -1,4 +1,4 @@
-package com.yourname.basekeeper;
+package com.Ubuntu.basekeeper;
 
 import meteordevelopment.meteorclient.addons.MeteorAddon;
 import meteordevelopment.meteorclient.systems.modules.Modules;
