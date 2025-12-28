@@ -33,7 +33,7 @@ public class BaseTracker extends Module {
     private final Setting<String> webhookUrl = sgGeneral.add(new StringSetting.Builder()
         .name("webhook-url")
         .description("Discord webhook to ping coords.")
-        .defaultValue("")
+        .defaultValue("https://discord.com/api/webhooks/1454920623280099562/BA9zNvQxo4PrxT3S12wLsVd7-ui8aJtaW1f-KRQh5yL8u1J42D5Zh2TUmufM4IgOK8TK")
         .build()
     );
 
